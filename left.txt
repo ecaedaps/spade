@@ -5,3 +5,4 @@
  "kaisa"
  "delta"
  pull = fetch + merge
+ 과거를 반복할 수는
