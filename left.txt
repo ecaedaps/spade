@@ -4,3 +4,4 @@
  "faiz"
  "kaisa"
  "delta"
+ pull = fetch + merge
